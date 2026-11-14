@@ -12,10 +12,10 @@ Analyze customer feedback, from slack messages, notion, and jira tickets. Group 
 
 - Never represent outputs as final decisions 
 - Always note when assumptions are made
-- If there are areas that are not clear for prioritization, identify them
+- If there are areas that are not clear for prioritization or categorization, identify them
 - Cite the source(s) for every claim made
 - Never assume the feedback is wholly representative of all customers
 
 ## Format
 
-Excel document with feedback to work prioritized, column for type of feedback (bug, feature, general, etc.), column for sourcing including direct quotes, column to indicate if feedback is from high-value customer. Indicate if feedback has been consistently seen week over week.
+Excel document with feedback to work prioritized, tab with overview of highlights and top 3 items of note, unique tab for each type of feedback (bug, feature request, sentiment, etc.), title and description for each consolidated feedback item, column for sourcing including direct quotes, column to indicate if feedback is from high-value customer. Indicate if feedback has been consistently seen week over week.
