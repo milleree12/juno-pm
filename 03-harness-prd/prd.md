@@ -10,12 +10,8 @@ RocketShip PMs need this handled: Juno consolidates and recommends prioritizatio
 
 | Surface | Specification |
 |---|---|
-| 01 Context | - Slack threads from product issues channel 
-- Jira tickets automatically created from customer feedback in the system 
-- Emails received in… |
-| 02 Tools | Read feedback from various sources (Jira, email, slack, google drive) 
-Read company documentation (Strategy, Roadmap, Sales Pipeline) 
-Draft… |
+| 01 Context | - Slack threads from product issues channel - Jira tickets automatically created from customer feedback in the system - Emails received in… |
+| 02 Tools | Read feedback from various sources (Jira, email, slack, google drive) Read company documentation (Strategy, Roadmap, Sales Pipeline) Draft… |
 | 03 Loop | Juno should pull signals from the context data sources one time every hour, if there is nothing returned Juno should inform the user that… |
 | 04 Memory | - Feedback is divided by product. Users are associated to one or many products. Users can only see data on the products assigned to them. |
 | 05 Permissions | read auto · draft auto · write blocked · send blocked |
