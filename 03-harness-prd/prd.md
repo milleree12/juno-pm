@@ -37,7 +37,7 @@ Juno should pull from the source data/systems on an hourly basis and ensure it i
 
 **The verb list**
 
-- Read feedback from various sources (Jira, email, slack, google drive)
+- Read feedback from various sources via API calls (Jira, email, slack, google drive)
 - Read company documentation (Strategy, Roadmap, Sales Pipeline)
 - Draft Prioritized list of feedback for human review
 
